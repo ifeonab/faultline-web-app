@@ -1,0 +1,12 @@
+{
+  "name": "faultline-web-app",
+  "version": "1.0.0",
+  "description": "A reliability operations workspace for managing incidents, postmortems, corrective actions, and service health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
